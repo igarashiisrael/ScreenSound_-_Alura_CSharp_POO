@@ -1,0 +1,15 @@
+F:\FIAP\ScreenSound_POO\bin\Debug\net6.0\ScreenSound_POO.exe
+F:\FIAP\ScreenSound_POO\bin\Debug\net6.0\ScreenSound_POO.deps.json
+F:\FIAP\ScreenSound_POO\bin\Debug\net6.0\ScreenSound_POO.runtimeconfig.json
+F:\FIAP\ScreenSound_POO\bin\Debug\net6.0\ScreenSound_POO.dll
+F:\FIAP\ScreenSound_POO\bin\Debug\net6.0\ScreenSound_POO.pdb
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.csproj.AssemblyReference.cache
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.GeneratedMSBuildEditorConfig.editorconfig
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.AssemblyInfoInputs.cache
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.AssemblyInfo.cs
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.csproj.CoreCompileInputs.cache
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.dll
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\refint\ScreenSound_POO.dll
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.pdb
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ScreenSound_POO.genruntimeconfig.cache
+F:\FIAP\ScreenSound_POO\obj\Debug\net6.0\ref\ScreenSound_POO.dll
